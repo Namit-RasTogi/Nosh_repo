@@ -1,0 +1,2 @@
+model_checkpoint_path: "model.H5"
+all_model_checkpoint_paths: "model.H5"
